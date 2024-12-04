@@ -9,4 +9,4 @@ The healthcare management dashboard designed to enhance hospital operations by m
 
 ### Cloud Architecture for Medi Quick Pharmacy <br>
 Medi Quick Pharmacy’s cloud architecture integrates e-commerce, on-premises, social media, and geolocation data into a scalable solution for real-time sales and customer engagement analysis. Using Azure services like Data Factory, Delta Lake, Synapse Analytics, and Power BI, it processes data through ingestion, transformation, and aggregation to provide actionable insights. The system supports pharmacist consultations, product ordering, and KPI tracking, enhancing customer satisfaction, improving decision-making, and driving sustainable growth. <br>
-[Link to the Detailed Report]()
+[Link to the Detailed Report](https://github.com/vatsal7902/CourseProjects/blob/main/Article%20on%20GitHub%20-%20Medi%20Quick%20Pharmacy.pdf)
